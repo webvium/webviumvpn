@@ -3,7 +3,7 @@
     "webviumvpn": "webviumvpn.js"
   },
   "name": "webviumvpn",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Anonymous, Secured, Private and the fastest Virtual Private Network.",
   "main": "webviumvpn.js",
   "scripts": {
