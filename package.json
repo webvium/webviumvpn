@@ -1,0 +1,44 @@
+{
+  "bin": {
+    "webviumvpn": "webviumvpn.js"
+  },
+  "name": "webviumvpn",
+  "version": "1.0.0",
+  "description": "Anonymous, Secured, Private and the fastest Virtual Private Network.",
+  "main": "webviumvpn.js",
+  "scripts": {
+    "test": "node webviumvpn.js",
+    "pub": "npm version major & npm publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webvium/webviumvpn.git"
+  },
+  "keywords": [
+    "melvin jones repol",
+    "mrepol742",
+    "software engineer",
+    "Me, I and Myselft",
+    "webvium vpn",
+    "mrepol742.github.io",
+    "samiun nafis",
+    "samiunnafis"
+  ],
+  "author": "Melvin Jones Repol",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webvium/webviumvpn/issues"
+  },
+  "homepage": "https://github.com/webvium/webviumvpn#readme",
+  "dependencies": {
+    "boxen": "^4.2.0",
+    "chalk": "^4.1.2",
+    "clear": "^0.1.0",
+    "cli-spinners": "^2.6.1",
+    "inquirer": "^7.3.3",
+    "open": "^7.4.2",
+    "ora": "^5.4.1",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {}
+}
